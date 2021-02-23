@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/cheeses-app/static/css/main.cc892913.chunk.css",
+    "main.js": "/cheeses-app/static/js/main.f33b051c.chunk.js",
+    "main.js.map": "/cheeses-app/static/js/main.f33b051c.chunk.js.map",
+    "runtime-main.js": "/cheeses-app/static/js/runtime-main.d42267d5.js",
+    "runtime-main.js.map": "/cheeses-app/static/js/runtime-main.d42267d5.js.map",
+    "static/css/2.31ff0196.chunk.css": "/cheeses-app/static/css/2.31ff0196.chunk.css",
+    "static/js/2.b3b12cd2.chunk.js": "/cheeses-app/static/js/2.b3b12cd2.chunk.js",
+    "static/js/2.b3b12cd2.chunk.js.map": "/cheeses-app/static/js/2.b3b12cd2.chunk.js.map",
+    "static/js/3.ee6f90d1.chunk.js": "/cheeses-app/static/js/3.ee6f90d1.chunk.js",
+    "static/js/3.ee6f90d1.chunk.js.map": "/cheeses-app/static/js/3.ee6f90d1.chunk.js.map",
+    "index.html": "/cheeses-app/index.html",
+    "static/css/2.31ff0196.chunk.css.map": "/cheeses-app/static/css/2.31ff0196.chunk.css.map",
+    "static/css/main.cc892913.chunk.css.map": "/cheeses-app/static/css/main.cc892913.chunk.css.map",
+    "static/js/2.b3b12cd2.chunk.js.LICENSE.txt": "/cheeses-app/static/js/2.b3b12cd2.chunk.js.LICENSE.txt",
+    "static/media/avatar.2be75ce8.png": "/cheeses-app/static/media/avatar.2be75ce8.png",
+    "static/media/cheese.4fe1fbba.jpg": "/cheeses-app/static/media/cheese.4fe1fbba.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d42267d5.js",
+    "static/css/2.31ff0196.chunk.css",
+    "static/js/2.b3b12cd2.chunk.js",
+    "static/css/main.cc892913.chunk.css",
+    "static/js/main.f33b051c.chunk.js"
+  ]
+}
